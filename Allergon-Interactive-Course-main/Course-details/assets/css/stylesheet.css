@@ -43,3 +43,18 @@ h6 {
 .progress-bar {
     background-color: #593c6e;
 }
+.concluded {
+    font-weight: 700;
+}
+.ami-star {
+    font-size: 110%;
+}
+.ami-share {
+    font-size: 110%;
+    color: #9497a2;
+}
+.ami-stand {
+    font-size: 170%;
+    width: 1px;
+    color: #9497a2;
+}

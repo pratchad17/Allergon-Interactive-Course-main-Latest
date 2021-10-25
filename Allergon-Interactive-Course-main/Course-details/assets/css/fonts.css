@@ -1,4 +1,30 @@
-@font-face {font-family: "Neue Haas Unica"; src: url("//db.onlinewebfonts.com/t/0cb7c7b91bfb261102957a90622d9534.eot"); src: url("//db.onlinewebfonts.com/t/0cb7c7b91bfb261102957a90622d9534.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/0cb7c7b91bfb261102957a90622d9534.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/0cb7c7b91bfb261102957a90622d9534.woff") format("woff"), url("//db.onlinewebfonts.com/t/0cb7c7b91bfb261102957a90622d9534.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/0cb7c7b91bfb261102957a90622d9534.svg#Neue Haas Unica") format("svg"); }
+/* @font-face {
+    font-family: "Neue Haas Unica";
+    src: url("//db.onlinewebfonts.com/t/0cb7c7b91bfb261102957a90622d9534.eot");
+    src: url("//db.onlinewebfonts.com/t/0cb7c7b91bfb261102957a90622d9534.eot?#iefix")
+            format("embedded-opentype"),
+        url("//db.onlinewebfonts.com/t/0cb7c7b91bfb261102957a90622d9534.woff2")
+            format("woff2"),
+        url("//db.onlinewebfonts.com/t/0cb7c7b91bfb261102957a90622d9534.woff")
+            format("woff"),
+        url("//db.onlinewebfonts.com/t/0cb7c7b91bfb261102957a90622d9534.ttf")
+            format("truetype"),
+        url("//db.onlinewebfonts.com/t/0cb7c7b91bfb261102957a90622d9534.svg#Neue Haas Unica")
+            format("svg");
+} */
+
+@font-face {
+    font-family: "Neue Haas Unica";
+    src: url(assets/css/fonts/0cb7c7b91bfb261102957a90622d9534.eot);
+    src: url(assets/css/fonts/0cb7c7b91bfb261102957a90622d9534.eot?#iefix)
+            format("embedded-opentype"),
+        url(assets/css/fonts/0cb7c7b91bfb261102957a90622d9534.woff2)
+            format("woff2"),
+        url(assets/css/fonts/0cb7c7b91bfb261102957a90622d9534.woff)
+            format("woff"),
+        url(assets/css/fonts/0cb7c7b91bfb261102957a90622d9534.ttf)
+            format("truetype");
+}
 
 @font-face {
     font-family: NeueHaasUnica Bold;
