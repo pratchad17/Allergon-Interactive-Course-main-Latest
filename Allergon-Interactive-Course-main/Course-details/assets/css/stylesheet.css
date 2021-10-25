@@ -1,0 +1,45 @@
+h1,
+h2,
+h3,
+h4,
+h6 {
+    font-family: "Neue Haas Unica";
+}
+
+.breadcrumb-item {
+    font-size: 115%;
+    color: #9497a2;
+}
+
+.list-group {
+    border: 1px solid #115ca8;
+    box-sizing: border-box;
+
+    /* width: 100%; */
+    text-align: justify;
+    padding: 5px;
+}
+.list-group-item {
+    border: none;
+}
+
+.pre-next {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+
+    padding-bottom: 10px;
+    margin-bottom: 5px;
+}
+.pre-items {
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.progress {
+    width: 160px;
+}
+
+.progress-bar {
+    background-color: #593c6e;
+}
